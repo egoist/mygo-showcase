@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Celestine
+  description: >-
+    A fast, native notes app for Mac, Windows and Linux. Pages format as you
+    type, collections show as a list, table, board or calendar, a journal keeps
+    a page for every day, and sync is end-to-end encrypted.
+  url: https://celestine.halid.dev
+  author: imhalid
+  mode: native
+  image: images/celestine.jpg

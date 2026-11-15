@@ -300,11 +300,11 @@
 
 - name: Sotto
   description: >-
-    A lightweight, unobtrusive desktop translator built for Windows users and
-    developers.
+    A lightweight, unobtrusive desktop translator for Windows and macOS users
+    and developers.
   url: https://github.com/doyuli/sotto
   author: doyuli
-  mode: web
+  mode: native
   image: images/sotto.png
 
 - name: TanGit

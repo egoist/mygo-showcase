@@ -526,3 +526,15 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Ramus
+  description: >-
+    A fast, open-source Git client for macOS, Windows and Linux that stays light
+    on large repositories: it lays out the Linux kernel's 1.5 million commits in
+    under three seconds. It reads Git's files itself and runs your own git for
+    every write, with line staging, a merge editor, history rewriting, and
+    GitHub and GitLab pull request reviews.
+  url: https://github.com/PythonShe/ramus
+  author: PythonShe
+  mode: native
+  image: images/ramus.jpg

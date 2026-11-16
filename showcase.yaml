@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: MyGo Launcher
+  description: >-
+    A portable Windows launcher for the programs, files and folders you use
+    every day, drawn with MyGo's native UI. Group items into pages, click one to
+    run it and stop it from the same grid, and keep icons, layout and running
+    time in a data folder next to the executable.
+  url: https://github.com/canwdev/mygo-launcher
+  author: canwdev
+  mode: native
+  image: images/mygo-launcher.jpg

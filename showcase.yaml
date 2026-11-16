@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: mygo-shell
+  description: >-
+    An Xshell-style terminal in Go for Windows, macOS and Linux. Tabs mix local
+    shells with SSH sessions, credentials are asked for the way Xshell asks them
+    (password, a key or keyboard-interactive), and the terminal itself is
+    Ghostty's VT core.
+  url: https://github.com/tyjiosen/mygo-shell
+  author: tyjiosen
+  mode: native
+  image: images/mygo-shell.jpg

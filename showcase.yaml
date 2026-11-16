@@ -526,3 +526,12 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: UniPac
+  description: >-
+    A place to inspect and act on global packages installed through different
+    package managers, including Homebrew, NPM, Cargo, Bun, Pip, Pipx and UV tool.
+  url: https://github.com/RUBisco0211/unipac
+  author: RUBisco0211
+  mode: native
+  image: images/unipac.png

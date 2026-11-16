@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: MyGo Video
+  description: >-
+    A native video player with a local library, WebDAV and IPTV built in, and
+    plugins for Bilibili, Youku and Tencent Video: 1080P DASH, danmaku, live
+    streams, and series grouped across sources.
+  url: https://github.com/pingfury108/mygo-video
+  author: pingfury108
+  mode: native
+  image: images/mygo-video.jpg

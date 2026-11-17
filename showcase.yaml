@@ -526,3 +526,11 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Termini
+  description: >-
+    Just a terminal.
+  url: https://github.com/bestruirui/Termini
+  author: bestruirui
+  mode: native
+  image: images/termini.png

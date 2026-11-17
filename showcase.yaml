@@ -414,19 +414,22 @@
   mode: native
   image: images/ferry-drive.png
 
-- name: Snapover
+- name: "Snapover · 桌临鸽"
   description: >-
-    An open-source clipboard manager for macOS and Windows. Sync text, images,
-    files and folders between computers over a direct, encrypted connection.
+    Universal Clipboard between macOS and Windows. Share text, screenshots,
+    files and entire folders over a direct TLS 1.3 LAN connection, with instant
+    history search, quick paste and a built-in CLI—no cloud or account needed.
   url: https://github.com/2fa0/snapover
   author: "2fa0"
   mode: native
   image: images/snapover.jpg
 
-- name: Xylring
+- name: "Xylring · 木年轮"
   description: >-
-    An open-source native Git client for macOS and Windows. Browse commit graphs,
-    review diffs, search history and stage individual hunks.
+    A lightweight native Git cockpit for AI-assisted coding on macOS and
+    Windows. Track AI model/agent provenance, diff-scaled commit graphs,
+    cross-repo boards with CLI sync and lingering worktrees, plus diffs and hunk
+    staging—without opening a heavy IDE.
   url: https://github.com/2fa0/xylring
   author: "2fa0"
   mode: native

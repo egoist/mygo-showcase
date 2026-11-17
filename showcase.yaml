@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: md-previewer
+  description: >-
+    A simple markdown previewer and editor. It can edit Markdown source 
+    beside a live GitHub Flavored Markdown preview and supports file 
+    recovery, recent files, and an outline sidebar.
+  url: https://github.com/alwaysbetter1314/md-previewer-mygo.git
+  author: alwaysbetter1314
+  mode: native
+  image: images/md-previewer-screenshot.png

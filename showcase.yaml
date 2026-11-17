@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: FrpTray
+  description: >-
+    A native Windows desktop manager for frp tunnels. Run multiple frpc
+    instances with form-based proxy and visitor configuration, live logs and
+    traffic charts, one-click start/stop, an embedded frp engine, and in-app
+    updates.
+  url: https://gitcode.com/zxy37/frptray
+  author: Bug2Coder
+  mode: native
+  image: images/frptray.jpg

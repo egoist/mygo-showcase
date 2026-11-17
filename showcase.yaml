@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: ReSo Backup
+  description: >-
+    A file backup tool with a MyGo native GUI and CLI. Split files into redundant
+    shares using Reed-Solomon erasure coding, optionally encrypt them with
+    AES-256-GCM, and restore them even when some shares are lost.
+  url: https://github.com/Nigh/ReSoBackup
+  author: Nigh
+  mode: native
+  image: images/reso-backup.jpg

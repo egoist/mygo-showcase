@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Skill Stow
+  description: >-
+    An open-source skill manager for AI agents on macOS, drawn with MyGo's native
+    UI. See which agents read each skill, enable or disable skills per agent,
+    check them before adding or updating, and tidy up duplicate copies and broken
+    links.
+  url: https://github.com/DBAAZzz/skill-stow
+  author: DBAAZzz
+  mode: native
+  image: images/skill-stow.jpg

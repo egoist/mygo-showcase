@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Eternally
+  description: >-
+    A Windows 11 input method with live translation and a native MyGo UI.
+    Choose words and preview translations next to the caret, then press Enter
+    to insert the result in the current app. Switch to regular typing with a shortcut.
+  url: https://github.com/wiptgdxv/Eternally
+  author: wiptgdxv
+  mode: native
+  image: images/eternally.jpg

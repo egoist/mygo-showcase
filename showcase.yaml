@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: TCS3200 Sensor Kit
+  description: >-
+    A native Linux app for measuring screen light signals with a TCS3200 sensor
+    and RP2040. View RGB and Clear waveforms, map sensor readings to screen RGB
+    values, and test click latency after color changes.
+  url: https://github.com/Nigh/TCS3200-sensor-kit
+  author: Nigh
+  mode: native
+  image: images/tcs3200-sensor-kit.jpg

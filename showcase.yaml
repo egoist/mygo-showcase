@@ -526,3 +526,16 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: "云播切片"
+  description: >-
+    A live-stream recorder for Windows and macOS. It watches streamers on
+    Douyin, Bilibili and other platforms added through plugins, and records
+    each broadcast when it starts, on your own computer (free, with no limit
+    on rooms) or in the cloud. Douyin rooms can also be recorded in full,
+    with danmaku and gift effects, through an Android phone or emulator.
+    Danmaku analysis, highlights and video tools come with it.
+  url: https://live.zyue.wiki/download
+  author: lizhongyue248
+  mode: native
+  image: images/yunbo.jpg

@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Foyer
+  description: >-
+    A local service manager for macOS. Save each project folder and start
+    command once, then start, stop, inspect live logs, and keep services running
+    from the menu bar.
+  url: https://foyer.pinweb.io
+  author: tanshiqi
+  mode: native
+  image: images/foyer.jpg

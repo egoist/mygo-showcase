@@ -526,3 +526,12 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: NebulaDesk
+  description: >-
+    A native, GPU-accelerated desktop client for NebulaGraph v3 with a custom
+    nGQL editor, schema-aware autocomplete, and interactive graph visualization.
+  url: https://github.com/jeanlyn/NebulaDesk
+  author: jeanlyn
+  mode: native
+  image: images/nebuladesk.jpg

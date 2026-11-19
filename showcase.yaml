@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: MiniCode
+  description: >-
+    A native macOS workbench for Claude Code. Agent and IDE are two layouts of
+    one window that share the same sessions, editor and terminal. Built with
+    MyGo's native UI: no WebView, no Node.
+  url: https://github.com/ixxxxoooo/minicode
+  author: ixxxxoooo
+  mode: native
+  image: images/minicode.jpg

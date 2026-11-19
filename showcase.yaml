@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Sheaf
+  description: >-
+    A native macOS app for reviewing changes that span multiple Git repositories.
+    Enter a work item ID to see matching branches, their diffs, and each
+    repository's merge progress in one place.
+  url: https://github.com/no-today/sheaf
+  author: no-today
+  mode: native
+  image: images/sheaf.jpg

@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: "归径 · Guijing"
+  description: >-
+    A native macOS focus app built with MyGo. Set one concrete goal, choose the
+    apps and duration for the session, and settle into an offline nature scene
+    with layered sound; reusable templates and focus history stay on the Mac.
+  url: https://github.com/pyinx/zhuanzhuli
+  author: pyinx
+  mode: native
+  image: images/guijing.jpg

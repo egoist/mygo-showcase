@@ -526,3 +526,15 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: 绿驿管家
+  description: >-
+    CarryDock is a portable software manager built for Windows. It has been 
+    rewritten in pure Go with MyGo Native UI — rendered directly on the GPU 
+    (Direct3D 11 on Windows) with zero CGO, zero WebView2 dependency, instant 
+    startup, tiny memory footprint, and full backward compatibility with existing
+    CarryDock configuration and software list files.
+  url: https://carrydock.devyi.com/
+  author: youzhiran
+  mode: native
+  image: images/carrydock.jpg

@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: NetDream
+  description: >-
+    An offline Postman alternative that sends requests from a Go backend and
+    renders its UI in the system webview. Debug HTTP/2, SSE streams, WebSocket
+    and TCP with pre/post goja scripts, variables, assertions and .band
+    workspace files — no Electron, no cloud, no account.
+  url: https://github.com/kisaragychihaya/NetDream
+  author: kisaragychihaya
+  mode: web
+  image: images/netdream.png

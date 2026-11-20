@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Pail
+  description: >-
+    An open-source desktop client for Amazon S3, Cloudflare R2, MinIO and other
+    S3-compatible storage on Windows, macOS and Linux. Browse buckets and object
+    versions, queue transfers that resume after a restart, edit object and bucket
+    settings, and run folder sync jobs.
+  url: https://pail.download
+  author: DejavuMoe
+  mode: native
+  image: images/pail.jpg

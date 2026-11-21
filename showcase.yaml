@@ -526,3 +526,15 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Maibooru
+  description: >-
+    An open-source native desktop app for managing personal media libraries on
+    Oxibooru and Szurubooru servers across macOS, Windows and Linux. Browse with
+    tag autocomplete and saved searches, organize posts, tags and pools in bulk,
+    view images, videos and PDFs, and drag-and-drop files in with duplicate
+    detection or back out to other apps.
+  url: https://github.com/mudkipme/maibooru
+  author: mudkipme
+  mode: native
+  image: images/maibooru.jpg

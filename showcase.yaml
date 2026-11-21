@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Nevermind
+  description: >-
+    A command palette that extends itself: launch apps, find files, search
+    your clipboard, dictate into any app, or describe what you want and AI
+    builds it as an extension, from palette commands to menu bar items. For
+    macOS and Linux.
+  url: https://nvm.fyi
+  author: pablopunk
+  mode: native
+  image: images/nevermind.jpg

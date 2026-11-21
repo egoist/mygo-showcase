@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Metrix.Bar
+  description: >-
+    Run native dashboards in the menu bar or system tray, the notch and system
+    widgets on macOS, Windows and Linux (experimental). Each dashboard is one
+    .bar file, so start with an official one or ask Claude Code, Codex or
+    Cursor to build yours.
+  url: https://metrix.bar
+  author: miantiao-me
+  mode: native
+  image: images/metrix-bar.jpg

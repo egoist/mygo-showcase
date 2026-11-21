@@ -526,3 +526,12 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Dipper
+  description: >-
+    A native desktop app for browsing seasonal anime, following series,
+    and automatically downloading new episodes from selected fansub groups.
+  url: https://github.com/steampixel007/Dipper
+  author: steampixel007
+  mode: native
+  image: images/dipper.jpg

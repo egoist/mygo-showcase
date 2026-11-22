@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Raglex
+  description: >-
+    A local-first design asset manager and infinite moodboard for Windows, macOS
+    and Linux, drawn with MyGo's native UI. Organize references like Eagle with
+    in-place folder indexing, nested tags, version stacks and offline visual
+    search, or pop out a frameless always-on-top reference window like PureRef.
+  url: https://ranglex.sorai.tw
+  author: Batkixni
+  mode: native
+  image: images/raglex.jpg

@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: MailDiver
+  description: >-
+    A native IMAP/SMTP email, calendar, and contacts client with an optional
+    local or cloud AI assistant. Supports multi-account sync, S/MIME and
+    OpenPGP encryption, filter rules, CalDAV/CardDAV, and cross-platform
+    desktop and Android builds.
+  url: https://diver80.github.io/maildiver/
+  author: diver80
+  mode: native
+  image: images/maildiver.jpg

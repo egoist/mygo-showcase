@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: OpenPrintCast
+  description: >-
+    Print from iPhone, iPad, Mac and Android to any printer on your Windows PC.
+    Shares the PC's printers over AirPrint and IPP, with job history, printer
+    status and a one-click firewall fix, from a small native app in the system
+    tray.
+  url: https://github.com/ilyasaftr/OpenPrintCast
+  author: ilyasaftr
+  mode: native
+  image: images/openprintcast.jpg

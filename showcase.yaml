@@ -526,3 +526,11 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: GCode
+  description: >-
+    A native desktop workspace for AI-assisted coding on Windows and macOS.
+    Work with coding agents, review file changes, and connect to local or remote project workspaces.
+  url: https://github.com/chengliang4810/GCode
+  author: chengliang4810
+  mode: native

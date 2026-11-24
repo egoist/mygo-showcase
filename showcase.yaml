@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: PostDive
+  description: >-
+    A native IMAP/SMTP email, calendar, and contacts client with an optional
+    local or cloud AI assistant and built-in local MCP server. Supports
+    multi-account sync, S/MIME and OpenPGP encryption, filter rules,
+    CalDAV/CardDAV, and cross-platform desktop and Android builds.
+  url: https://diver80.github.io/postdive/
+  author: diver80
+  mode: native
+  image: images/postdive.jpg

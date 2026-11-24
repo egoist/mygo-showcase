@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: MCode
+  description: >-
+    An open-source AI coding desktop client written in pure Go and drawn with
+    MyGo's native UI. Run many agent threads, kanban boards and subagent
+    swarms in one window, and take over sessions from a bundled web app.
+  url: https://github.com/miniers/MCode
+  author: miniers
+  mode: native
+  image: images/mcode.jpg

@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Hearth
+  description: >-
+    A free, open-source desktop hub for your local dev environment on macOS,
+    Windows, and Linux. Inspects runtimes, PATH, Docker/Colima, Kubernetes,
+    local databases, and AI agents (skills, MCP, usage) in one native Go binary,
+    applying changes only after showing a plan, diff, and backup.
+  url: https://github.com/Blinks44/hearth
+  author: Blinks44
+  mode: native
+  image: images/hearth.jpg

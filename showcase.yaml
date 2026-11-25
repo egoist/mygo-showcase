@@ -526,3 +526,12 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: MochiPic
+  description: >-
+    A native batch image editor for macOS and Windows. Crop, watermark, and
+    convert photos locally, then export the whole batch.
+  url: https://mochipic.zhenhua.lu/
+  author: luzhenhua
+  mode: native
+  image: images/mochipic.webp

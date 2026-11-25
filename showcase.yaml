@@ -526,3 +526,15 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: ArcMD
+  description: >-
+    An open-source native Markdown editor and workspace for macOS, Windows and
+    Linux inspired by the Arc browser. Organizes local .md folders into themed
+    Spaces with global favorites and pinned tabs, alongside native TeX math,
+    Excalidraw-compatible whiteboards, mind maps, multi-view databases and a
+    built-in Space Q&A agent.
+  url: https://arcmd.wl.do
+  author: Ciao1019
+  mode: native
+  image: images/arcmd.jpg

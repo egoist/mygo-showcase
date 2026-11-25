@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: gotion
+  description: >-
+    A native Notion client for Linux, macOS and Windows. Open and edit pages
+    offline, see every task due today across your databases, view databases as
+    tables, boards or calendars, and jot things down with a global shortcut.
+  url: https://gotion.ryanda.my.id
+  author: ryandaaa
+  mode: native
+  image: images/gotion.jpg

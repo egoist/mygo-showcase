@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: SSHFS Drive
+  description: >-
+    A Windows app that mounts SSH servers as drive letters, written in Go: SSH
+    and SFTP run inside the process and WinFsp turns the session into a drive,
+    so it needs neither sshfs.exe nor Electron. Passwords stay in the Windows
+    credential store, and cached metadata keeps folders on a slow link quick.
+  url: https://github.com/qiaoyongfeng/sshfs-drive
+  author: qiaoyongfeng
+  mode: native
+  image: images/sshfs-drive.jpg

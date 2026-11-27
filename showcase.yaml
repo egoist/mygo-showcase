@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: Koma
+  description: >-
+    A screenshot and annotation tool for Windows, drawn with MyGo's native UI.
+    Press Ctrl+Shift+A to freeze every monitor, snap windows with DWM, annotate
+    in place on a Liquid Glass toolbar, then double-click to copy. Also captures
+    scrolling windows, pins shots on the desktop and reads text with OCR.
+  url: https://github.com/Kutius/koma
+  author: Kutius
+  mode: native
+  image: images/koma.png

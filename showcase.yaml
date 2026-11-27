@@ -526,3 +526,15 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: QuotaWatcher
+  description: >-
+    A desktop dashboard for the official subscription quotas of AI coding CLIs
+    (Antigravity CLI, Claude Code and Codex CLI). It never touches tokens: it runs
+    each CLI's own zero-cost usage command, supports multiple accounts and config
+    directories, and adds a translucent always-on-top widget and signed
+    auto-updates.
+  url: https://github.com/gonewx/QuotaWatcher
+  author: gonewx
+  mode: web
+  image: images/quotawatcher.jpg

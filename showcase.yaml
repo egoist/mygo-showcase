@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: MyNodepad
+  description: >-
+    A lightweight plain-text editor for macOS, Windows and Linux. Tabs, automatic
+    UTF-8 and GB18030, find and replace, and syntax highlighting stay in one native
+    window, with Markdown preview, JSON formatting, local history and a terminal
+    underneath.
+  url: https://nodepad.nbetcd.com
+  author: Banfuguang
+  mode: native
+  image: images/MyNodePad.png

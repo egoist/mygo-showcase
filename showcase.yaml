@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: zeolite
+  description: >-
+    A macOS app that keeps AI agents in Docker sandboxes. A sandbox holds none
+    of your Mac's files and leaves only by the network interfaces you allow,
+    while a probe sees it at the exit address you expect; where you allow it,
+    its agent runs programs of your Mac behind a Seatbelt wall.
+  url: https://github.com/yewcast97/zeolite
+  author: yewcast97
+  mode: native
+  image: images/zeolite.jpg

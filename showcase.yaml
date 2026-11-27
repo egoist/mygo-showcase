@@ -526,3 +526,13 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: SyncMaid
+  description: >-
+    A portable one-way file sync utility for Windows. Watch or schedule a source
+    folder to keep multiple destinations in sync, each with its own filters and
+    Mirror, Add-only, or Move strategy, plus a system tray and run history.
+  url: https://github.com/dantewang/SyncMaid.go
+  author: dantewang
+  mode: native
+  image: images/syncmaid.png

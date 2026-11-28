@@ -526,3 +526,14 @@
   author: Cmdly
   mode: native
   image: images/aria-fm.jpg
+
+- name: "馨Cast (XinCast)"
+  description: >-
+    A third-party Apple Podcasts client for Windows. Browse the full Apple
+    Podcasts catalog, sync playback progress with your Apple account, and keep
+    episodes in a queue, in a glassy ambient-glow interface with a full-screen
+    vinyl stage and system media key support.
+  url: https://github.com/lengfc09/xincast
+  author: lengfc09
+  mode: web
+  image: images/xincast.jpg
